@@ -83,6 +83,32 @@ Unit of Measurements & Currency
 Each test case is designed with a specific Rationale to test the boundaries of the transliteration engine, focusing on phonetic accuracy and character mapping.
 
 
+| # | Input Type |
+|---|---|
+| 1 | Question forms |
+| 2 | Command forms |
+| 3 | Greetings |
+| 4 | Requests |
+| 5 | Responses |
+| 6 | Repeated Words |
+| 7 | Inputs with Punctuation Marks |
+| 8 | Romanization / Spelling Variants |
+| 9 | Isolated English Word Insertions in Singlish |
+| 10 | Multi-Word English Phrases in Singlish |
+| 11 | English Digital Terms in Singlish |
+| 12 | Platform/App Names in Singlish |
+| 13 | English Abbreviations/Acronyms in Singlish |
+| 14 | English Clipped Forms in Singlish |
+| 15 | Place Names Embedded in Singlish |
+| 16 | Person Names Embedded in Singlish |
+| 17 | Inputs with Numbers and Numeric Suffixes |
+| 18 | Inputs with Currency |
+| 19 | Inputs with Time Formats |
+| 20 | Inputs with Dates |
+| 21 | Inputs with Unit of Measurements |
+| 22 | Inputs with Slang and Casual Phrasing |
+| 23 | Online Identifiers in Singlish |
+| 24 | Inputs Containing Emojis |
 
 
 ## Author: Minindu Madhushan
